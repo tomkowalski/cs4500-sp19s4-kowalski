@@ -1,0 +1,1 @@
+web: java -jar target/target/cs4500-sp19s3-kowalski-0.0.1-SNAPSHOT.war
