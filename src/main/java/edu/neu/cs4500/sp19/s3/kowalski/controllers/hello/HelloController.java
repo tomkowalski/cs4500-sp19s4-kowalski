@@ -1,4 +1,4 @@
-package edu.neu.cs4500.cs4500.sp19.s3.kowalski.controllers.hello;
+package edu.neu.cs4500.sp19.s3.kowalski.controllers.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

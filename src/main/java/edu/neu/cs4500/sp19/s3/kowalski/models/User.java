@@ -1,4 +1,4 @@
-package edu.neu.cs4500.cs4500.sp19.s3.kowalski.models;
+package edu.neu.cs4500.sp19.s3.kowalski.models;
 
 public class User {
     private Integer id;

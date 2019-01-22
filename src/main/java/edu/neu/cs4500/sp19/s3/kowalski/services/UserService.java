@@ -1,6 +1,6 @@
-package edu.neu.cs4500.cs4500.sp19.s3.kowalski.services;
+package edu.neu.cs4500.sp19.s3.kowalski.services;
 
-import edu.neu.cs4500.cs4500.sp19.s3.kowalski.models.User;
+import edu.neu.cs4500.sp19.s3.kowalski.models.User;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
