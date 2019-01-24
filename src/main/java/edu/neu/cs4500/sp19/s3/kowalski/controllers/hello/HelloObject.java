@@ -1,4 +1,4 @@
-package edu.neu.cs4500.cs4500.sp19.s3.kowalski.controllers.hello;
+package edu.neu.cs4500.sp19.s3.kowalski.controllers.hello;
 
 public class HelloObject {
     private String message;

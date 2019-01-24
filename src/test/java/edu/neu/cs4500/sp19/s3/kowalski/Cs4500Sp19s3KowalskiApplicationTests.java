@@ -1,4 +1,4 @@
-package edu.neu.cs4500.cs4500.sp19.s3.kowalski;
+package edu.neu.cs4500.sp19.s3.kowalski;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
